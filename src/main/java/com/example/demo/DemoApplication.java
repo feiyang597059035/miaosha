@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 // 该注解 发现注解@Scheduled的任务并后台执行
 @EnableScheduling
 @MapperScan("com.example.demo.mapper")
+
 public class DemoApplication {
 
     public static void main(String[] args) {
