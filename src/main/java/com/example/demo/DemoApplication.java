@@ -16,6 +16,7 @@ public class DemoApplication {
 
         SpringApplication.run(DemoApplication.class, args);
 		int i=222244442;
+	    int h=33;
 }
 
 /*@SpringBootApplication  
