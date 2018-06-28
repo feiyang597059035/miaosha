@@ -15,7 +15,7 @@ public class DemoApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(DemoApplication.class, args);
-    }
+		int i=2;
 }
 
 /*@SpringBootApplication  
@@ -25,6 +25,7 @@ public class DemoApplication {
 public class DemoApplication extends SpringBootServletInitializer{  
     @RequestMapping("/")  
     public String home(){  
+	     int i=3
         return "hello world";  
     }  
   
