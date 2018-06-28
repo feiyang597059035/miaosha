@@ -25,7 +25,7 @@ public class DemoApplication {
 public class DemoApplication extends SpringBootServletInitializer{  
     @RequestMapping("/")  
     public String home(){  
-        return "hello world";  
+        return "hello wor   ld";  
     }  
   
     public static void main(String[] args) {  
