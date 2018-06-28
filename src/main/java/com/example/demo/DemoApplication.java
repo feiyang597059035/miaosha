@@ -15,7 +15,7 @@ public class DemoApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(DemoApplication.class, args);
-		int i=122222;        int h=33;}
+		int i=122222;        int h=3553;}
 
 /*@SpringBootApplication  
 @RestController  
