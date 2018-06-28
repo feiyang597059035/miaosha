@@ -1,4 +1,4 @@
-﻿package com.example.demo;
+package com.example.demo;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
@@ -15,8 +15,7 @@ public class DemoApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(DemoApplication.class, args);
-		int i=1222225522;        int h=33;}
-
+		int i=1222225522;        int h=3553;}
 /*@SpringBootApplication  
 @RestController  
 @ServletComponentScan
